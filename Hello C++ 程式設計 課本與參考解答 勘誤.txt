@@ -1,0 +1,15 @@
+(P.8-32)
+2. (X) A NULL --> (O) B void
+8. (X) D 程式效能分析較容易 --> (O) C 設計上較簡單直覺 與 D 程式效能分析較容易
+
+(P.9-18)
+(X) 第11行 swap (&a, &b);
+--> (O) 第9行 swap (&a, &b);
+(X) 第17行 void swap (int * i, int * j)
+--> (O) 第14行 void swap (int * i, int * j)
+
+(P.9-27)
+二、填充題
+1. 
+(X) x = 8, y = 3, ptr = 300, * ptr = 8
+--> (O) x = 8, y = 3, ptr = 100, * ptr = 8

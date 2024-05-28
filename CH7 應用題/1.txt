@@ -1,0 +1,8 @@
+(P.7-21)
+1. 
+string s1, s2, s3;
+(1.) s1 = s1 + s2; 或 s1 += s2;
+(2.) int length = s3.length();
+(3.) s1.insert(3, s2); 或 s1 = s1.insert(3, s2);
+(4.) s3.erase(3, 4); 或 s3 = s3.erase(3, 4);
+(5.) s1 = s1.substr(2, 4);
