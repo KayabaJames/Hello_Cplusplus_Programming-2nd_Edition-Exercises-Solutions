@@ -1,7 +1,4 @@
 <h1>自學書 Hello！C++程式設計-第二版(融合「大學程式設計先修檢測APCS」) 習題解答</h1><br>
-<h1>Self-study Book: Hello! C++ Programming - Second Edition (Integrating "University Programming Pre-Test APCS") Solutions to Exercises</h1><br>
-<h1>独学書：Hello！C++ プログラミング - 第2版（「大学プログラミング先修検定APCS」を融合） 演習問題解答</h1><br>
-
 <h2>版權聲明(中文版)</h2>
 根據此書( Hello！C++程式設計-第二版(融合「大學程式設計先修檢測APCS」) )所敘述之版權聲明，
 其範例程式、習題解答之內容僅供合法持有該書之讀者使用，下載網址已在書內提供，其版權均歸
@@ -16,6 +13,7 @@
 Kayaba Akihiko (dachangjames)<br>
 <br>
 <br>
+<h1>Self-study Book: Hello! C++ Programming - Second Edition (Integrating "University Programming Pre-Test APCS") Solutions to Exercises</h1>
 <h2>Copyright Statement (English Version)</h2>
 According to the copyright statement provided in the book "Hello! C++ Programming - Second Edition (Integrating "University Programming Pre-Test APCS")", the sample programs and solutions to exercises in the book are only for use by legal holders of the book. The download URL is provided in the book, and the copyright for all of these materials is owned by GOTOP Information Inc. Therefore, these materials cannot be provided on this GitHub page, sorry for the inconvenience.
 The content provided on this GitHub page contains the solution code for the application problems (programming practice problems) in the book, as well as the corrections for the wrong answers to the multiple choice and fill-in-the-blank questions.
@@ -27,6 +25,7 @@ However, there may still be omissions or errors in the content. I would be highl
 Kayaba Akihiko (dachangjames)<br>
 <br>
 <br>
+<h1>独学書：Hello！C++ プログラミング - 第2版（「大学プログラミング先修検定APCS」を融合） 演習問題解答</h1><br>
 <h2>著作権声明（日本語）</h2>
 この本（Hello！C++ プログラミング - 第2版（「大学プログラミング先修検定APCS」を融合） ）に記載されている著作権声明によると、そのサンプルプログラムと演習問題の解答は、この本を合法的に所有している読者のみが使用できます。ダウンロードURLは書籍内に記載されており、その著作権はすべて碁峰股份有限公司に属します。したがって、この GitHub ページでは提供できません。
 この GitHub ページで提供される内容は、書籍全体の応用問題（プログラミングの実践問題）の解答コードと、選択問題および穴埋め問題の誤答の訂正です。
